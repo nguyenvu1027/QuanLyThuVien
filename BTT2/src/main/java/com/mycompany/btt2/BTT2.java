@@ -16,5 +16,6 @@ public class BTT2 {
         System.out.print("Nhập họ và tên của bạn: ");
         String hoTen = scanner.nextLine();
         System.out.println("Họ và tên của bạn là: " + hoTen);
+        System.out.println("Da thuc hien thay doi code lan 2!");
     }
 }
